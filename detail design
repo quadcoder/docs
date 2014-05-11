@@ -1,0 +1,6 @@
+git init
+git clone C:\Users\cse\Documents\GitHub\docs\detail design
+git add <detail-design(완성본)>
+git push origin master
+
+
